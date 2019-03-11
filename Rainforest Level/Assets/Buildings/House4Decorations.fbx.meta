@@ -92,6 +92,23 @@ ModelImporter:
     4300028: pCube8
     4300030: pCube9
     4300032: pCube10
+    6400000: pCube10
+    6400002: pCube11
+    6400004: pCube13
+    6400006: pCube2
+    6400008: pCube3
+    6400010: pCube4
+    6400012: pCube5
+    6400014: pCube6
+    6400016: pCube7
+    6400018: pCube8
+    6400020: pCube9
+    6400022: pCylinder10
+    6400024: pCylinder15
+    6400026: pCylinder18
+    6400028: pCylinder19
+    6400030: pCylinder20
+    6400032: pCylinder21
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -125,14 +142,14 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     useSRGBMaterialColor: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

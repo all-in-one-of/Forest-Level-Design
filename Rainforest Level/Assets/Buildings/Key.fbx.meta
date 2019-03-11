@@ -26,6 +26,8 @@ ModelImporter:
     4300002: KeyLOD1
     4300004: Key_LOD0
     4300006: Key_LOD1
+    6400000: Key_LOD0
+    6400002: Key_LOD1
     20500000: //RootNode
   externalObjects: {}
   materials:
@@ -62,14 +64,14 @@ ModelImporter:
     - 0.01
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     useSRGBMaterialColor: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

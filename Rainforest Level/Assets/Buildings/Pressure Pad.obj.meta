@@ -23,6 +23,9 @@ ModelImporter:
     4300000: Border
     4300002: Step_Piece_High
     4300004: Step_Piece_Low
+    6400000: Border
+    6400002: Step_Piece_High
+    6400004: Step_Piece_Low
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -56,14 +59,14 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     useSRGBMaterialColor: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0

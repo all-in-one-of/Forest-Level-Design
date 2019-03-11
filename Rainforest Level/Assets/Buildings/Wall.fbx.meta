@@ -36,6 +36,12 @@ ModelImporter:
     4300006: Right_Wall_LOD1
     4300008: Left_Wall_LOD2
     4300010: Right_Wall_LOD2
+    6400000: Left_Wall_LOD0
+    6400002: Left_Wall_LOD1
+    6400004: Left_Wall_LOD2
+    6400006: Right_Wall_LOD0
+    6400008: Right_Wall_LOD1
+    6400010: Right_Wall_LOD2
     20500000: //RootNode
   externalObjects: {}
   materials:
@@ -73,14 +79,14 @@ ModelImporter:
     - 0.01
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     useSRGBMaterialColor: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
